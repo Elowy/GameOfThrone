@@ -1,0 +1,6 @@
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\bin\Debug\GameOfTheThrone.exe.config
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\obj\Debug\GameOfTheThrone.csprojResolveAssemblyReference.cache
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\bin\Debug\GameOfTheThrone.exe
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\bin\Debug\GameOfTheThrone.pdb
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\obj\Debug\GameOfTheThrone.exe
+c:\users\elowy\documents\visual studio 2015\Projects\GameOfTheThrone\GameOfTheThrone\obj\Debug\GameOfTheThrone.pdb
